@@ -1,0 +1,18 @@
+@font-face {
+    font-family: 'BlackwoodCastleShadow';
+    src: url('BlackwoodCastleShadow.woff2') format('woff2'),
+        url('BlackwoodCastleShadow.woff') format('woff');
+    font-weight: normal;
+    font-style: normal;
+    font-display: swap;
+}
+
+@font-face {
+    font-family: 'BlackwoodCastle';
+    src: url('BlackwoodCastle.woff2') format('woff2'),
+        url('BlackwoodCastle.woff') format('woff');
+    font-weight: normal;
+    font-style: normal;
+    font-display: swap;
+}
+
